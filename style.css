@@ -1,0 +1,41 @@
+body {
+    background-color: #E3D0BA;
+}
+
+.container {
+    width: 100%;
+    padding: 25px 0px 15px 0px;
+}
+
+.line-chart {
+    width:80vw;
+    max-width: 700px;
+}
+
+.pie-chart {
+    width:80vw;
+    max-width: 700px;
+    min-width: 360px;
+}
+
+.bar-chart {
+    width: 80vw;
+    max-width: 700px;
+    height: 1200px;
+    margin-top: 40px;
+}
+
+.valign-wrapper {
+    justify-content: center;
+}
+
+.container h5 {
+    margin-top: .656rem;
+    font-family: gothic;
+}
+
+nav {
+    background-color: #DD6B1E;
+    display: flex;
+    justify-content: center;
+}
