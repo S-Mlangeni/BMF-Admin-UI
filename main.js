@@ -1,7 +1,5 @@
 Chart.defaults.color = 'black';
 Chart.defaults.plugins.title.font = {size: 18, weight: 'bold', family: 'Gothic'};
-Chart.defaults.plugins.title.backgroundColor = 'white';
-
 
 var ctx = $('#myChart');
 
